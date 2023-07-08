@@ -1,0 +1,10 @@
+1:HL["/_next/static/css/8eacd82b7a015dc6.css",{"as":"style"}]
+0:["current",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8eacd82b7a015dc6.css","precedence":"next"}]],["$L3",null]]]]]
+4:I{"id":6513,"chunks":["185:static/chunks/app/layout-49aeda34b94c75aa.js"],"name":"Header","async":false}
+5:I{"id":9180,"chunks":["272:static/chunks/webpack-3306ee0bdadb18c3.js","253:static/chunks/bce60fc1-216ec86d09e39e3b.js","698:static/chunks/698-badab1bcfe7c44d1.js"],"name":"default","async":false}
+6:I{"id":2306,"chunks":["272:static/chunks/webpack-3306ee0bdadb18c3.js","253:static/chunks/bce60fc1-216ec86d09e39e3b.js","698:static/chunks/698-badab1bcfe7c44d1.js"],"name":"default","async":false}
+7:I{"id":8531,"chunks":["272:static/chunks/webpack-3306ee0bdadb18c3.js","253:static/chunks/bce60fc1-216ec86d09e39e3b.js","698:static/chunks/698-badab1bcfe7c44d1.js"],"name":"default","async":false}
+8:I{"id":6846,"chunks":["931:static/chunks/app/page-10ab638118f33975.js"],"name":"","async":false}
+9:I{"id":160,"chunks":["185:static/chunks/app/layout-49aeda34b94c75aa.js"],"name":"Footer","async":false}
+2:[["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","div",null,{"id":"app","children":[["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L6",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","$L7",null,{"propsForComponent":{"params":{}},"Component":"$8"}],null],"segment":"__PAGE__"},"styles":[]}]]}],["$","$L9",null,{}]]}]}],null]
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Яндекс.Дом"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}]]
