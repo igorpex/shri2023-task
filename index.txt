@@ -1,10 +1,10 @@
-1:HL["/shri2023-task/_next/static/css/5ce451ccd3146bdd.css",{"as":"style"}]
-0:["current",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/shri2023-task/_next/static/css/5ce451ccd3146bdd.css","precedence":"next"}]],["$L3",null]]]]]
-4:I{"id":6513,"chunks":["185:static/chunks/app/layout-8ee58737d25cccb9.js"],"name":"Header","async":false}
-5:I{"id":9180,"chunks":["272:static/chunks/webpack-368e2d040ae7d1e8.js","253:static/chunks/bce60fc1-1bdfbd669332dc7c.js","698:static/chunks/698-741af84877effbe6.js"],"name":"default","async":false}
-6:I{"id":2306,"chunks":["272:static/chunks/webpack-368e2d040ae7d1e8.js","253:static/chunks/bce60fc1-1bdfbd669332dc7c.js","698:static/chunks/698-741af84877effbe6.js"],"name":"default","async":false}
-7:I{"id":8531,"chunks":["272:static/chunks/webpack-368e2d040ae7d1e8.js","253:static/chunks/bce60fc1-1bdfbd669332dc7c.js","698:static/chunks/698-741af84877effbe6.js"],"name":"default","async":false}
-8:I{"id":6846,"chunks":["931:static/chunks/app/page-20d02fe7b05541b7.js"],"name":"","async":false}
-9:I{"id":160,"chunks":["185:static/chunks/app/layout-8ee58737d25cccb9.js"],"name":"Footer","async":false}
+1:HL["/shri2023-task/_next/static/css/5da574e19982a7d2.css",{"as":"style"}]
+0:["current",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/shri2023-task/_next/static/css/5da574e19982a7d2.css","precedence":"next"}]],["$L3",null]]]]]
+4:I{"id":6513,"chunks":["185:static/chunks/app/layout-9b72b9c4cc82075e.js"],"name":"Header","async":false}
+5:I{"id":9180,"chunks":["272:static/chunks/webpack-f6fb138a11fe6858.js","253:static/chunks/bce60fc1-0a6aa02a1af6a3eb.js","698:static/chunks/698-a72fb3e2ead85b85.js"],"name":"default","async":false}
+6:I{"id":2306,"chunks":["272:static/chunks/webpack-f6fb138a11fe6858.js","253:static/chunks/bce60fc1-0a6aa02a1af6a3eb.js","698:static/chunks/698-a72fb3e2ead85b85.js"],"name":"default","async":false}
+7:I{"id":8531,"chunks":["272:static/chunks/webpack-f6fb138a11fe6858.js","253:static/chunks/bce60fc1-0a6aa02a1af6a3eb.js","698:static/chunks/698-a72fb3e2ead85b85.js"],"name":"default","async":false}
+8:I{"id":6846,"chunks":["931:static/chunks/app/page-ae1f7a21c17ccfad.js"],"name":"","async":false}
+9:I{"id":160,"chunks":["185:static/chunks/app/layout-9b72b9c4cc82075e.js"],"name":"Footer","async":false}
 2:[["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","div",null,{"id":"app","children":[["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L6",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","$L7",null,{"propsForComponent":{"params":{}},"Component":"$8"}],null],"segment":"__PAGE__"},"styles":[]}]]}],["$","$L9",null,{}]]}]}],null]
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Яндекс.Дом"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}]]
